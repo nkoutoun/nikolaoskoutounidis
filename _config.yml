@@ -12,7 +12,7 @@ title                    : "Nikolaos Koutounidis"
 title_separator          : "-"
 name                     : &name "Nikolaos Koutounidis"
 description              : &description "personal description"
-url                      : http://www.nikolaoskoutounidis.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nkoutoun.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nkoutoun/nkoutoun.github.io"
 
